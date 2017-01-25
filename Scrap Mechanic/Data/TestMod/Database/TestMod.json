@@ -1,0 +1,37 @@
+{
+	"itemlist": [
+		{
+    
+    "uuid": "7e7939e2-096c-432b-9d77-a06b4bf471b1",
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList": [
+							{
+								"textureList": [
+									"../Data/TestMod/Textures/Test.tga",
+									"../Data/TestMod/Textures/Test.tga",
+									"../Data/TestMod/Textures/Test.tga"
+								],
+								"material": "PoseAnimDifAsgNor"
+							}
+						],
+						"mesh": "../Data/TestMod/Models/Test.obj",
+						"pose0": "../Data/TestMod/Models/Test02.obj"
+					}
+				]
+			},
+			"rotationSet": "PropYZ",
+			"color": "df7f00",
+			"box": { "x": 1, "y": 1, "z": 1 },
+			"density": 250.0,
+			"physicsMaterial": "Metal",
+			"preview":
+			{
+				"effect" : "mesh"
+			}
+    
+    
+    }
+	]
+}
