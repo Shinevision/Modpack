@@ -1,0 +1,13 @@
+{
+	"shapeSetList": [
+		"../Data/Objects/Database/ShapeSets/interactive.json",
+		"../Data/Objects/Database/ShapeSets/lights.json",
+		"../Data/Objects/Database/ShapeSets/vehicle.json",
+		"../Data/Objects/Database/ShapeSets/industrial.json",
+		"../Data/Objects/Database/ShapeSets/fittings.json",
+		"../Data/Objects/Database/ShapeSets/containers.json",
+		"../Data/Objects/Database/ShapeSets/decor.json",
+		"../Data/Objects/Database/ShapeSets/plants.json",
+		"../Data/Testmod/Database/TestMod.json"
+	]
+}
