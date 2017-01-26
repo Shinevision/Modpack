@@ -25,11 +25,7 @@
 			"color": "df7f00",
 			"box": { "x": 1, "y": 1, "z": 1 },
 			"density": 250.0,
-			"physicsMaterial": "Metal",
-			"preview":
-			{
-				"effect" : "mesh"
-			}
+			"physicsMaterial": "Metal"
     
     
     }
