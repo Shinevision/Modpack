@@ -9,15 +9,15 @@
 						"subMeshList": [
 							{
 								"textureList": [
-									"../Data/TestMod/Textures/Test.tga",
-									"../Data/TestMod/Textures/Test.tga",
-									"../Data/TestMod/Textures/Test.tga"
+									"../Data/TestMod/Textures/Paintable.tga",
+									"../Data/TestMod/Textures/Paintable.tga",
+									"../Data/TestMod/Textures/Paintable.tga"
 								],
 								"material": "PoseAnimDifAsgNor"
 							}
 						],
-						"mesh": "../Data/TestMod/Models/Test.obj",
-						"pose0": "../Data/TestMod/Models/Test02.obj"
+						"mesh": "../Data/TestMod/Models/Baloon_V1_OFF.obj",
+						"pose0": "../Data/TestMod/Models/Baloon_V1_ON.obj"
 					}
 				]
 			},
