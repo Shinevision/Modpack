@@ -23,9 +23,10 @@
 			},
 			"rotationSet": "PropYZ",
 			"color": "df7f00",
-			"box": { "x": 1, "y": 1, "z": 1 },
+			"box": { "x": 1, "y": 3, "z": 1 },
 			"density": 250.0,
-			"physicsMaterial": "Metal"
+			"physicsMaterial": "Metal",
+			"lever": { }
     
     
     }
